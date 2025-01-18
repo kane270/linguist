@@ -90,7 +90,7 @@ $ github-linguist
 1.29%   5098       Lex
 0.32%   1257       Shell
 0.31%   1212       Dockerfile
-```
+0.30%   1190
 
 #### Additional options
 
